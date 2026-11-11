@@ -1,0 +1,14 @@
+# Raw heavy video backups (>100MB)
+*raw*.mp4
+*backup*.mp4
+*.tmp
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Vercel
+.vercel
